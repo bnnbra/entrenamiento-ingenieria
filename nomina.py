@@ -9,3 +9,4 @@ def calcular_nomina(sueldo_bruto):
 # Prueba profesional
 mi_sueldo = 2500
 print(f"Sueldo tras impuestos: {calcular_nomina(mi_sueldo)}")
+# fin 
